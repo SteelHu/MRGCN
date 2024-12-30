@@ -165,4 +165,7 @@ scripts/augmentation/
 run_anylearn.py
 environment.txt
 
+logs_exp
 logs_exp/*
+roc_curve/*
+roc_curve
